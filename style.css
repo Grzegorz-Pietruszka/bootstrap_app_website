@@ -76,7 +76,7 @@
 
 .btn-style {
   border: 2px solid #000;
-  opacity: 0.9;
+  opacity: 1;
   transition: 0.3s; }
   .btn-style:hover {
     opacity: 1;
