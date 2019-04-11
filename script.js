@@ -38,6 +38,3 @@ animateOffset('#nav-subscribe', '#singIn', 20);
 ScrollReveal().reveal('#projects', { duration: 1600 });
 ScrollReveal().reveal('#singIn', { duration: 1600 });
 ScrollReveal().reveal('#section-cards', { duration: 1600 });
-
-
-
